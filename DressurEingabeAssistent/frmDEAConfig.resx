@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="acht" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\acht.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="beep" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beep.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="beep_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beep-low.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="drei" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drei.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="eins" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\eins.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="fuenf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fuenf.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="komma" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\komma.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="neun" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\neun.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="null" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\null.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sechs" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sechs.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="sieben" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sieben.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="vier" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vier.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="zehn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\zehn.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="zwei" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\zwei.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
 </root>

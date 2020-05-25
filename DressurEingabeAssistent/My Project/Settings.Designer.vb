@@ -53,6 +53,42 @@ Namespace My
                 Return defaultInstance
             End Get
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
+        Public Property AudioVoice() As Boolean
+            Get
+                Return CType(Me("AudioVoice"),Boolean)
+            End Get
+            Set
+                Me("AudioVoice") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
+        Public Property AudioBeep() As Boolean
+            Get
+                Return CType(Me("AudioBeep"),Boolean)
+            End Get
+            Set
+                Me("AudioBeep") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("True")>  _
+        Public Property RestrictionFullHalf() As Boolean
+            Get
+                Return CType(Me("RestrictionFullHalf"),Boolean)
+            End Get
+            Set
+                Me("RestrictionFullHalf") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

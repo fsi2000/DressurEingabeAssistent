@@ -89,6 +89,8 @@ Partial Class frmDEAConfig
 		Me.Controls.Add(Me.CheckBox2)
 		Me.Controls.Add(Me.CheckBox1)
 		Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+		Me.MaximizeBox = False
+		Me.MinimizeBox = False
 		Me.Name = "frmDEAConfig"
 		Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
 		Me.Text = "Konfiguration"

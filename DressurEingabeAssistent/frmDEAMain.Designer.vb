@@ -91,7 +91,7 @@ Partial Class frmDEAMain
 		Me.cmdClearScore.Size = New System.Drawing.Size(130, 23)
 		Me.cmdClearScore.TabIndex = 6
 		Me.cmdClearScore.Text = "löschen"
-		Me.ttToolTips.SetToolTip(Me.cmdClearScore, "Lister der Wertnoten löschen")
+		Me.ttToolTips.SetToolTip(Me.cmdClearScore, "Liste der Wertnoten löschen")
 		Me.cmdClearScore.UseVisualStyleBackColor = True
 		'
 		'cmdModifyScore
@@ -103,7 +103,7 @@ Partial Class frmDEAMain
 		Me.cmdModifyScore.Size = New System.Drawing.Size(46, 23)
 		Me.cmdModifyScore.TabIndex = 2
 		Me.cmdModifyScore.Text = "<>"
-		Me.ttToolTips.SetToolTip(Me.cmdModifyScore, "AUsgewählte Wertnoet ändern")
+		Me.ttToolTips.SetToolTip(Me.cmdModifyScore, "Selektierte Wertnote ändern")
 		Me.cmdModifyScore.UseVisualStyleBackColor = True
 		'
 		'cmdDeleteScore
@@ -114,7 +114,7 @@ Partial Class frmDEAMain
 		Me.cmdDeleteScore.Size = New System.Drawing.Size(36, 23)
 		Me.cmdDeleteScore.TabIndex = 3
 		Me.cmdDeleteScore.Text = "-"
-		Me.ttToolTips.SetToolTip(Me.cmdDeleteScore, "Ausgewählte Wertnote entfernen")
+		Me.ttToolTips.SetToolTip(Me.cmdDeleteScore, "Selektierte Wertnote entfernen")
 		Me.cmdDeleteScore.UseVisualStyleBackColor = True
 		'
 		'tmrAutomation
@@ -130,7 +130,7 @@ Partial Class frmDEAMain
 		Me.cmdConfig.Size = New System.Drawing.Size(130, 23)
 		Me.cmdConfig.TabIndex = 9
 		Me.cmdConfig.Text = "Konfiguration"
-		Me.ttToolTips.SetToolTip(Me.cmdConfig, "Konfigurationsdialog öffnen")
+		Me.ttToolTips.SetToolTip(Me.cmdConfig, "Konfiguration öffnen...")
 		Me.cmdConfig.UseVisualStyleBackColor = True
 		'
 		'frmDEAMain
